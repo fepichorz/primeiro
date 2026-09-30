@@ -1,0 +1,10 @@
+# Arquivos compilados e executáveis
+*.o
+*.out
+build/
+bin/
+
+# Temporários do sistema e da IDE
+.vscode/
+.cursor/
+.DS_Store
